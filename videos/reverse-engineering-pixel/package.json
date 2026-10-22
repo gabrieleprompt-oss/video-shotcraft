@@ -1,0 +1,22 @@
+{
+  "name": "reverse-engineering-pixel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tutoriel motion design pixel art, 15 secondes, réalisé avec Remotion.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port=3100",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts ReverseEngineering out/reverse-engineering-pixel-15s.mp4 --browser-executable=/usr/bin/chromium --concurrency=3",
+    "stills": "node scripts/stills.cjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "typescript": "6.0.3"
+  }
+}
