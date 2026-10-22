@@ -1,0 +1,21 @@
+{
+  "name": "cow-workers-reference",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recr\u00e9ation motion design avec les vaches en peluche fournies par l\u2019utilisateur.",
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open --port=3200",
+    "typecheck": "tsc --noEmit",
+    "render": "remotion render src/index.ts CowWorkers out/cow-workers.mp4 --browser-executable=/usr/bin/chromium --concurrency=3 --log=error"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.484",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "typescript": "6.0.3"
+  }
+}
