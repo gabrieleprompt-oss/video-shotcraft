@@ -1,0 +1,1176 @@
+[
+  [
+    {
+      "text": "Tu",
+      "startMs": 60,
+      "endMs": 228,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " vois",
+      "startMs": 228,
+      "endMs": 471,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " ce",
+      "startMs": 471,
+      "endMs": 639,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " rush",
+      "startMs": 639,
+      "endMs": 883,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " ?",
+      "startMs": 883,
+      "endMs": 1261,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Et",
+      "startMs": 1261,
+      "endMs": 1429,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " ça…",
+      "startMs": 1429,
+      "endMs": 1807,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " c'est",
+      "startMs": 1807,
+      "endMs": 2082,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " exactement",
+      "startMs": 2082,
+      "endMs": 2491,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " la",
+      "startMs": 2491,
+      "endMs": 2659,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " même",
+      "startMs": 2659,
+      "endMs": 2902,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " vidéo,",
+      "startMs": 2902,
+      "endMs": 3177,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " après",
+      "startMs": 3177,
+      "endMs": 3453,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " Claude.",
+      "startMs": 3453,
+      "endMs": 3968,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Zéro",
+      "startMs": 60,
+      "endMs": 342,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " CapCut.",
+      "startMs": 342,
+      "endMs": 939,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Zéro",
+      "startMs": 939,
+      "endMs": 1221,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " Premiere",
+      "startMs": 1221,
+      "endMs": 1637,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " Pro.",
+      "startMs": 1637,
+      "endMs": 2122,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " J'ai",
+      "startMs": 2122,
+      "endMs": 2404,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " même",
+      "startMs": 2404,
+      "endMs": 2686,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " pas",
+      "startMs": 2686,
+      "endMs": 2927,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " touché",
+      "startMs": 2927,
+      "endMs": 3280,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " à",
+      "startMs": 3280,
+      "endMs": 3475,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " une",
+      "startMs": 3475,
+      "endMs": 3716,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " timeline.",
+      "startMs": 3716,
+      "endMs": 4376,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "J'ai",
+      "startMs": 60,
+      "endMs": 375,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " ouvert",
+      "startMs": 375,
+      "endMs": 769,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " Claude",
+      "startMs": 769,
+      "endMs": 1164,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " Code,",
+      "startMs": 1164,
+      "endMs": 1478,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " installé",
+      "startMs": 1478,
+      "endMs": 1943,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " mon",
+      "startMs": 1943,
+      "endMs": 2212,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " kit",
+      "startMs": 2212,
+      "endMs": 2481,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " de",
+      "startMs": 2481,
+      "endMs": 2698,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " montage",
+      "startMs": 2698,
+      "endMs": 3128,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " et",
+      "startMs": 3128,
+      "endMs": 3345,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " connecté",
+      "startMs": 3345,
+      "endMs": 3810,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " HyperFrames.",
+      "startMs": 3810,
+      "endMs": 4640,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Je",
+      "startMs": 60,
+      "endMs": 222,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " glisse",
+      "startMs": 222,
+      "endMs": 516,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " ma",
+      "startMs": 516,
+      "endMs": 678,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " vidéo",
+      "startMs": 678,
+      "endMs": 944,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " brute",
+      "startMs": 944,
+      "endMs": 1209,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ici.",
+      "startMs": 1209,
+      "endMs": 1613,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Et",
+      "startMs": 1613,
+      "endMs": 1775,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " je",
+      "startMs": 1775,
+      "endMs": 1936,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " lui",
+      "startMs": 1936,
+      "endMs": 2137,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " donne",
+      "startMs": 2137,
+      "endMs": 2403,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " une",
+      "startMs": 2403,
+      "endMs": 2603,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " seule",
+      "startMs": 2603,
+      "endMs": 2869,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " instruction.",
+      "startMs": 2869,
+      "endMs": 3488,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Coupe",
+      "startMs": 60,
+      "endMs": 342,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 342,
+      "endMs": 556,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " silences.",
+      "startMs": 556,
+      "endMs": 1139,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Supprime",
+      "startMs": 1139,
+      "endMs": 1508,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 1508,
+      "endMs": 1721,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ratés.",
+      "startMs": 1721,
+      "endMs": 2219,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Garde",
+      "startMs": 2219,
+      "endMs": 2501,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 2501,
+      "endMs": 2714,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " meilleurs",
+      "startMs": 2714,
+      "endMs": 3108,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " passages.",
+      "startMs": 3108,
+      "endMs": 3692,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Et",
+      "startMs": 3692,
+      "endMs": 3864,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " donne-moi",
+      "startMs": 3864,
+      "endMs": 4258,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " un",
+      "startMs": 4258,
+      "endMs": 4430,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " montage",
+      "startMs": 4430,
+      "endMs": 4771,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " qui",
+      "startMs": 4771,
+      "endMs": 4985,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " retient",
+      "startMs": 4985,
+      "endMs": 5326,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " l'attention.",
+      "startMs": 5326,
+      "endMs": 5984,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Claude",
+      "startMs": 60,
+      "endMs": 405,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " analyse",
+      "startMs": 405,
+      "endMs": 782,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " la",
+      "startMs": 782,
+      "endMs": 972,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " vidéo,",
+      "startMs": 972,
+      "endMs": 1284,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " choisit",
+      "startMs": 1284,
+      "endMs": 1661,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " les",
+      "startMs": 1661,
+      "endMs": 1896,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " coupes",
+      "startMs": 1896,
+      "endMs": 2241,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " et",
+      "startMs": 2241,
+      "endMs": 2431,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " construit",
+      "startMs": 2431,
+      "endMs": 2867,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " directement",
+      "startMs": 2867,
+      "endMs": 3355,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " le",
+      "startMs": 3355,
+      "endMs": 3545,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " montage.",
+      "startMs": 3545,
+      "endMs": 4160,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Maintenant,",
+      "startMs": 60,
+      "endMs": 552,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " je",
+      "startMs": 552,
+      "endMs": 754,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " lui",
+      "startMs": 754,
+      "endMs": 1004,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " demande",
+      "startMs": 1004,
+      "endMs": 1405,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 1405,
+      "endMs": 1656,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " sous-titres,",
+      "startMs": 1656,
+      "endMs": 2175,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 2175,
+      "endMs": 2426,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " zooms,",
+      "startMs": 2426,
+      "endMs": 2757,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " les",
+      "startMs": 2757,
+      "endMs": 3008,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " animations",
+      "startMs": 3008,
+      "endMs": 3500,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " et",
+      "startMs": 3500,
+      "endMs": 3702,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " le",
+      "startMs": 3702,
+      "endMs": 3904,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " sound",
+      "startMs": 3904,
+      "endMs": 4236,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " design.",
+      "startMs": 4236,
+      "endMs": 4856,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Et",
+      "startMs": 60,
+      "endMs": 239,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " regarde",
+      "startMs": 239,
+      "endMs": 594,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " le",
+      "startMs": 594,
+      "endMs": 773,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " résultat.",
+      "startMs": 773,
+      "endMs": 1379,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Tout",
+      "startMs": 1379,
+      "endMs": 1639,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ça",
+      "startMs": 1639,
+      "endMs": 1817,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " est",
+      "startMs": 1817,
+      "endMs": 2039,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " généré",
+      "startMs": 2039,
+      "endMs": 2364,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " à",
+      "startMs": 2364,
+      "endMs": 2543,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " partir",
+      "startMs": 2543,
+      "endMs": 2868,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " de",
+      "startMs": 2868,
+      "endMs": 3047,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " mon",
+      "startMs": 3047,
+      "endMs": 3269,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " rush.",
+      "startMs": 3269,
+      "endMs": 3752,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Une",
+      "startMs": 60,
+      "endMs": 246,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " animation",
+      "startMs": 246,
+      "endMs": 588,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " me",
+      "startMs": 588,
+      "endMs": 738,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " plaît",
+      "startMs": 738,
+      "endMs": 984,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " pas",
+      "startMs": 984,
+      "endMs": 1169,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ?",
+      "startMs": 1169,
+      "endMs": 1507,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Je",
+      "startMs": 1507,
+      "endMs": 1656,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " lui",
+      "startMs": 1656,
+      "endMs": 1842,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " dis",
+      "startMs": 1842,
+      "endMs": 2028,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " simplement",
+      "startMs": 2028,
+      "endMs": 2392,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " de",
+      "startMs": 2392,
+      "endMs": 2542,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " la",
+      "startMs": 2542,
+      "endMs": 2692,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " refaire.",
+      "startMs": 2692,
+      "endMs": 3176,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Il",
+      "startMs": 60,
+      "endMs": 232,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " modifie",
+      "startMs": 232,
+      "endMs": 574,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " le",
+      "startMs": 574,
+      "endMs": 746,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " montage",
+      "startMs": 746,
+      "endMs": 1088,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " et",
+      "startMs": 1088,
+      "endMs": 1260,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " génère",
+      "startMs": 1260,
+      "endMs": 1574,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " une",
+      "startMs": 1574,
+      "endMs": 1787,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " nouvelle",
+      "startMs": 1787,
+      "endMs": 2156,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " version.",
+      "startMs": 2156,
+      "endMs": 2713,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Sans",
+      "startMs": 2713,
+      "endMs": 2963,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " tout",
+      "startMs": 2963,
+      "endMs": 3213,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " recommencer.",
+      "startMs": 3213,
+      "endMs": 3872,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  [
+    {
+      "text": "Tu",
+      "startMs": 60,
+      "endMs": 234,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " veux",
+      "startMs": 234,
+      "endMs": 486,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " mon",
+      "startMs": 486,
+      "endMs": 702,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " setup",
+      "startMs": 702,
+      "endMs": 987,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " exact",
+      "startMs": 987,
+      "endMs": 1272,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " ?",
+      "startMs": 1272,
+      "endMs": 1664,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " Commente",
+      "startMs": 1664,
+      "endMs": 2036,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " CLAUDE",
+      "startMs": 2036,
+      "endMs": 2352,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " et",
+      "startMs": 2352,
+      "endMs": 2526,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " je",
+      "startMs": 2526,
+      "endMs": 2700,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": " te",
+      "startMs": 2700,
+      "endMs": 2874,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " l'envoie.",
+      "startMs": 2874,
+      "endMs": 3464,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ]
+]

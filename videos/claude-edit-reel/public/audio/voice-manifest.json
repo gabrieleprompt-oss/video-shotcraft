@@ -1,0 +1,68 @@
+[
+  {
+    "file": "audio/voice-01.mp3",
+    "start": 0.06,
+    "duration": 4.008,
+    "text": "Tu vois ce rush ? Et ça… c'est exactement la même vidéo, après Claude."
+  },
+  {
+    "file": "audio/voice-02.mp3",
+    "start": 5.06,
+    "duration": 4.416,
+    "text": "Zéro CapCut. Zéro Premiere Pro. J'ai même pas touché à une timeline."
+  },
+  {
+    "file": "audio/voice-03.mp3",
+    "start": 10.06,
+    "duration": 4.68,
+    "text": "J'ai ouvert Claude Code, installé mon kit de montage et connecté HyperFrames."
+  },
+  {
+    "file": "audio/voice-04.mp3",
+    "start": 15.06,
+    "duration": 3.528,
+    "text": "Je glisse ma vidéo brute ici. Et je lui donne une seule instruction."
+  },
+  {
+    "file": "audio/voice-05.mp3",
+    "start": 20.06,
+    "duration": 6.024,
+    "text": "Coupe les silences. Supprime les ratés. Garde les meilleurs passages. Et donne-moi un montage qui retient l'attention."
+  },
+  {
+    "file": "audio/voice-06.mp3",
+    "start": 27.06,
+    "duration": 4.2,
+    "text": "Claude analyse la vidéo, choisit les coupes et construit directement le montage."
+  },
+  {
+    "file": "audio/voice-07.mp3",
+    "start": 33.06,
+    "duration": 4.896,
+    "text": "Maintenant, je lui demande les sous-titres, les zooms, les animations et le sound design."
+  },
+  {
+    "file": "audio/voice-08.mp3",
+    "start": 39.06,
+    "duration": 3.792,
+    "text": "Et regarde le résultat. Tout ça est généré à partir de mon rush."
+  },
+  {
+    "file": "audio/voice-09.mp3",
+    "start": 45.06,
+    "duration": 3.216,
+    "text": "Une animation me plaît pas ? Je lui dis simplement de la refaire."
+  },
+  {
+    "file": "audio/voice-10.mp3",
+    "start": 50.06,
+    "duration": 3.912,
+    "text": "Il modifie le montage et génère une nouvelle version. Sans tout recommencer."
+  },
+  {
+    "file": "audio/voice-11.mp3",
+    "start": 55.06,
+    "duration": 3.504,
+    "text": "Tu veux mon setup exact ? Commente CLAUDE et je te l'envoie."
+  }
+]
